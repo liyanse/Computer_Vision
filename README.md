@@ -7,6 +7,8 @@ This repository contains a list of all computer vision projects with PyTorch, Te
 3. Image Classification
 4. Image Segmentation
 5. Video Analysis
+6. MNIST Dataset
+7. Extraxt Text from Images
 
 ### Languages
 Python
